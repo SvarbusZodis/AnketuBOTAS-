@@ -1,7 +1,7 @@
 # Easiest Application System
 **Note this Discord Bot Repository is the Same as for the Public Bot [Easiest Application Bot](https://discord.com/api/oauth2/authorize?client_id=806086994031411221&permissions=8&scope=bot%20applications.commands) if u want to support me, then please [invite](https://discord.com/api/oauth2/authorize?client_id=806086994031411221&permissions=8&scope=bot%20applications.commands) him!**
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+## [**DISCORD SUPPORT SERVER INVITE**](https://support.Sukurta by: Fraze#0001)
 
 ## Installation | How to use the Bot
 
@@ -29,9 +29,9 @@
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
+[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.Sukurta by: Fraze#0001)
 [![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
+[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.Sukurta by: Fraze#0001)
 
 ## Sponsors
 
@@ -73,3 +73,4 @@ Like For games..
 
 **Website:**
 [mc-host24.de](https://mc-host24.de/user/affiliate/3121])
+"# AnketuBOTAS-" 
